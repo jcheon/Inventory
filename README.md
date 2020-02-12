@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jcheon/Inventory.svg?branch=master)](https://travis-ci.org/jcheon/Inventory)
+
 # Inventory 
 
 # Get started
