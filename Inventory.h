@@ -5,6 +5,8 @@
 using std::string;
 using std::ostream;
 
+// Inventory class that stores name, price, and in_stock variables. 
+// Has funtions that decrement in_stock when it is sold. 
 class Inventory
 {
   private:
